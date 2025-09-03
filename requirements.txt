@@ -1,10 +1,12 @@
 flask
 flask-cors
 python-dotenv
+werkzeug
 requests
 pypdf
-langchain-groq
+langchain
 langchain-community
+langchain-groq
 chromadb
 sentence-transformers
-pysqlite3-binary
+gunicorn
