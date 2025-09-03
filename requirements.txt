@@ -1,13 +1,10 @@
 flask
 flask-cors
-pyngrok
-werkzeug
+python-dotenv
 requests
-langchain
+pypdf
 langchain-groq
 langchain-community
-langchain-pinecone
-pypdf
-pinecone-client
+chromadb
 sentence-transformers
-tiktoken
+pysqlite3-binary
