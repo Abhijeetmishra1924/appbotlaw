@@ -1,0 +1,13 @@
+flask
+flask-cors
+pyngrok
+werkzeug
+requests
+langchain
+langchain-groq
+langchain-community
+langchain-pinecone
+pypdf
+pinecone-client
+sentence-transformers
+tiktoken
